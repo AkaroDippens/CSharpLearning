@@ -1,0 +1,15 @@
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.csproj.AssemblyReference.cache
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.AssemblyInfoInputs.cache
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.AssemblyInfo.cs
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.csproj.CoreCompileInputs.cache
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\bin\Debug\net6.0\Консоль2.exe
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\bin\Debug\net6.0\Консоль2.deps.json
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\bin\Debug\net6.0\Консоль2.runtimeconfig.json
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\bin\Debug\net6.0\Консоль2.dll
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\bin\Debug\net6.0\Консоль2.pdb
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.dll
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\refint\Консоль2.dll
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.pdb
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\Консоль2.genruntimeconfig.cache
+C:\Users\mirzo\source\repos\Консоль2\Консоль2\obj\Debug\net6.0\ref\Консоль2.dll
